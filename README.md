@@ -32,6 +32,7 @@
       ```bash
       chmod +x reinitialize_database.sh
       ```
+      
    2. **Run the Script**:
       ```bash
       ./reinitialize_database.sh
