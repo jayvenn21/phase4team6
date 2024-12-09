@@ -26,6 +26,18 @@
     - If the selected option is a procedure, fill in the required input fields for the parameters.
     - Click the “Run Procedure/View” button.
 
+3. **Resetting the Database**:
+
+   1. **Make the Script Executable** (if not already):
+      ```bash
+      chmod +x reinitialize_database.sh
+      ```
+   2. **Run the Script**:
+      ```bash
+      ./reinitialize_database.sh
+      ```
+
+
 ## 3. Brief Explanation of Technologies Used
 
 - **MySQL**:  
